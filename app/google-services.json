@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978474596303",
+    "firebase_url": "https://newwaytoshop-cd72f.firebaseio.com",
+    "project_id": "newwaytoshop-cd72f",
+    "storage_bucket": "newwaytoshop-cd72f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978474596303:android:42dedf558df0ab20",
+        "android_client_info": {
+          "package_name": "com.example.vvitcodelabs.newwaytoshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978474596303-nl1jq3v10r0u2ihjk215liqd7buk3lap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vvitcodelabs.newwaytoshop",
+            "certificate_hash": "53aac850ccfc1968b9dc050bc5bd68ffe5283d1d"
+          }
+        },
+        {
+          "client_id": "978474596303-r5cklc0ho1q2q5n4cj56kgdcs2pgrqb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7P86e4XiPzR0mGDHFia7rdia30TGO-No"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978474596303-r5cklc0ho1q2q5n4cj56kgdcs2pgrqb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="2000"
+        >
+    </alpha>
+</set>
+
+    C:\Users\VVITCODELABS\AndroidStudioProjects\NewWayToShop\app\src\main\res\layout\anim\fade1.xml
